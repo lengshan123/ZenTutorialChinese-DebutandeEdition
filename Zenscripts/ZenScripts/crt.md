@@ -1,0 +1,7 @@
+CraftTweaker(以下简称CrT)模组是MineTweaker3模组(以下简称MT3)的官方延续版本，适用于较新的Minecraft版本！
+
+CrT可用于使用ZenScript(一种为MT3及CrT创建的脚本语言)将魔改添加到Minecraft游戏内。
+
+ZenScript旨在让入门者易于使用，但提供了足够的灵活性，让其他玩家可以更好使用更高级以及更为灵活的功能。
+
+
